@@ -11,4 +11,3 @@
 avaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 
-- $  muito forte- $  muito forte
