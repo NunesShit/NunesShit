@@ -11,4 +11,4 @@
 <img src = "https://img.shields.io/badge/Je um monstro no leg press ￼
 avaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-- 💥 muito estressado 
+
