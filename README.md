@@ -2,7 +2,6 @@
 - 🔥 interessado em alguma area de trabalho
 - 🥇 email:pedro.nunes.carvalho@escola.pr.gov.br
 - 🇧🇷 moro no Brasil
-- $  muito forte
 - $ uma lenda no supino
 - $ e um monstro no leg press
 
@@ -12,3 +11,4 @@
 avaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 
+- $  muito forte- $  muito forte
